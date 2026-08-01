@@ -3,7 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SistemaParqueos.Dominio\SistemaParqueos.Dominio.csproj" />
     <ProjectReference Include="..\SistemaParqueos.AccesoDatos\SistemaParqueos.AccesoDatos.csproj" />
-    <ProjectReference Include="..\SistemaParqueos.Utilitarios\SistemaParqueos.Utilitarios.csproj" />
+    <ProjectReference Include="..\SistemaParqueos.Utilidades\SistemaParqueos.Utilidades.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

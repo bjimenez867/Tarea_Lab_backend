@@ -10,7 +10,7 @@
         "dependencies": {
           "SistemaParqueos.AccesoDatos": "1.0.0",
           "SistemaParqueos.Dominio": "1.0.0",
-          "SistemaParqueos.Utilitarios": "1.0.0"
+          "SistemaParqueos.Utilidades": "1.0.0"
         },
         "runtime": {
           "SistemaParqueos.LogicaNegocio.dll": {}
@@ -507,9 +507,9 @@
           }
         }
       },
-      "SistemaParqueos.Utilitarios/1.0.0": {
+      "SistemaParqueos.Utilidades/1.0.0": {
         "runtime": {
-          "SistemaParqueos.Utilitarios.dll": {
+          "SistemaParqueos.Utilidades.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -778,7 +778,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "SistemaParqueos.Utilitarios/1.0.0": {
+    "SistemaParqueos.Utilidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

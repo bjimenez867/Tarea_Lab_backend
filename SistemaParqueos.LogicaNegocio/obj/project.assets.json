@@ -707,14 +707,14 @@
           "bin/placeholder/SistemaParqueos.Dominio.dll": {}
         }
       },
-      "SistemaParqueos.Utilitarios/1.0.0": {
+      "SistemaParqueos.Utilidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/SistemaParqueos.Utilitarios.dll": {}
+          "bin/placeholder/SistemaParqueos.Utilidades.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SistemaParqueos.Utilitarios.dll": {}
+          "bin/placeholder/SistemaParqueos.Utilidades.dll": {}
         }
       }
     }
@@ -1711,17 +1711,17 @@
       "path": "../SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj",
       "msbuildProject": "../SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
     },
-    "SistemaParqueos.Utilitarios/1.0.0": {
+    "SistemaParqueos.Utilidades/1.0.0": {
       "type": "project",
-      "path": "../SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj",
-      "msbuildProject": "../SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj"
+      "path": "../SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+      "msbuildProject": "../SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "SistemaParqueos.AccesoDatos >= 1.0.0",
       "SistemaParqueos.Dominio >= 1.0.0",
-      "SistemaParqueos.Utilitarios >= 1.0.0"
+      "SistemaParqueos.Utilidades >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1757,8 +1757,8 @@
             "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
               "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
             },
-            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj": {
-              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj"
+            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
             }
           }
         }

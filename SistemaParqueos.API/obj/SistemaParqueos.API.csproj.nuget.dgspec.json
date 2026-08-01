@@ -392,8 +392,8 @@
               "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {
                 "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj"
               },
-              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj": {
-                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj"
+              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
               }
             }
           }
@@ -1231,8 +1231,8 @@
               "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
                 "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
               },
-              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj": {
-                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj"
+              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
               }
             }
           }
@@ -1547,14 +1547,14 @@
         }
       }
     },
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj": {
+    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj",
-        "projectName": "SistemaParqueos.Utilitarios",
-        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj",
+        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+        "projectName": "SistemaParqueos.Utilidades",
+        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
         "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/",
+        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"

@@ -616,7 +616,7 @@
         "dependencies": {
           "SistemaParqueos.AccesoDatos": "1.0.0",
           "SistemaParqueos.Dominio": "1.0.0",
-          "SistemaParqueos.Utilitarios": "1.0.0"
+          "SistemaParqueos.Utilidades": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SistemaParqueos.LogicaNegocio.dll": {}
@@ -625,14 +625,14 @@
           "bin/placeholder/SistemaParqueos.LogicaNegocio.dll": {}
         }
       },
-      "SistemaParqueos.Utilitarios/1.0.0": {
+      "SistemaParqueos.Utilidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/SistemaParqueos.Utilitarios.dll": {}
+          "bin/placeholder/SistemaParqueos.Utilidades.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SistemaParqueos.Utilitarios.dll": {}
+          "bin/placeholder/SistemaParqueos.Utilidades.dll": {}
         }
       }
     }
@@ -1646,10 +1646,10 @@
       "path": "../SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj",
       "msbuildProject": "../SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj"
     },
-    "SistemaParqueos.Utilitarios/1.0.0": {
+    "SistemaParqueos.Utilidades/1.0.0": {
       "type": "project",
-      "path": "../SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj",
-      "msbuildProject": "../SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj"
+      "path": "../SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+      "msbuildProject": "../SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1658,7 +1658,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.10",
       "SistemaParqueos.Dominio >= 1.0.0",
       "SistemaParqueos.LogicaNegocio >= 1.0.0",
-      "SistemaParqueos.Utilitarios >= 1.0.0",
+      "SistemaParqueos.Utilidades >= 1.0.0",
       "Swashbuckle.AspNetCore >= 10.2.3"
     ]
   },
@@ -1695,8 +1695,8 @@
             "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {
               "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj"
             },
-            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj": {
-              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj"
+            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
             }
           }
         }

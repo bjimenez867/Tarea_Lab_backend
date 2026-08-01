@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SistemaParqueos.Dominio.DTO;
 using SistemaParqueos.Dominio.InterfazLN;
-using SistemaParqueos.Utilitarios;
+using SistemaParqueos.Utilidades;
 
 namespace SistemaParqueos.API.Controllers;
 

@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SistemaParqueos.AccesoDatos.Contexto;
 using SistemaParqueos.AccesoDatos.Implementaciones;
@@ -5,6 +6,7 @@ using SistemaParqueos.Dominio.InterfacesAD;
 using SistemaParqueos.LogicaNegocio.Implementaciones;
 using SistemaParqueos.Dominio.InterfazLN;
 using SistemaParqueos.API.Middleware;
+using SistemaParqueos.Utilidades;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,23 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Unifica el formato de error de las validaciones de DataAnnotations con el
+// de Respuesta<T> que ya usan los controladores y ManejoErroresMiddleware,
+// en vez del ProblemDetails que [ApiController] devuelve por defecto.
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.InvalidModelStateResponseFactory = context =>
+    {
+        var mensaje = context.ModelState
+            .Where(e => e.Value?.Errors.Count > 0)
+            .SelectMany(e => e.Value!.Errors)
+            .Select(e => e.ErrorMessage)
+            .FirstOrDefault() ?? "Datos inválidos.";
+
+        return new BadRequestObjectResult(Respuesta<object>.Error(mensaje));
+    };
+});
 
 const string PoliticaCors = "FrontendPolicy";
 builder.Services.AddCors(options =>

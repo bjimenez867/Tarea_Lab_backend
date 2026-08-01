@@ -3,5 +3,5 @@
   <Project Path="SistemaParqueos.API/SistemaParqueos.API.csproj" />
   <Project Path="SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj" />
   <Project Path="SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj" />
-  <Project Path="SistemaParqueos.Utilitarios/SistemaParqueos.Utilitarios.csproj" />
+  <Project Path="SistemaParqueos.Utilidades\SistemaParqueos.Utilidades.csproj" />
 </Solution>

@@ -2,7 +2,7 @@ using SistemaParqueos.Dominio.DTO;
 using SistemaParqueos.Dominio.Entidades;
 using SistemaParqueos.Dominio.InterfacesAD;
 using SistemaParqueos.Dominio.InterfazLN;
-using SistemaParqueos.Utilitarios;
+using SistemaParqueos.Utilidades;
 
 namespace SistemaParqueos.LogicaNegocio.Implementaciones;
 

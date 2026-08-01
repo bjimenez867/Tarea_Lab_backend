@@ -1,6 +1,6 @@
 using System.Net;
 using System.Text.Json;
-using SistemaParqueos.Utilitarios;
+using SistemaParqueos.Utilidades;
 
 namespace SistemaParqueos.API.Middleware;
 

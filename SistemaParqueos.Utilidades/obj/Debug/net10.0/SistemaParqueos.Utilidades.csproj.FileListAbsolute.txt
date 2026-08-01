@@ -1,0 +1,12 @@
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/bin/Debug/net10.0/SistemaParqueos.Utilidades.deps.json
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/bin/Debug/net10.0/SistemaParqueos.Utilidades.dll
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/bin/Debug/net10.0/SistemaParqueos.Utilidades.pdb
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.AssemblyInfoInputs.cache
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.AssemblyInfo.cs
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.csproj.CoreCompileInputs.cache
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.sourcelink.json
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.dll
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/refint/SistemaParqueos.Utilidades.dll
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/SistemaParqueos.Utilidades.pdb
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/Debug/net10.0/ref/SistemaParqueos.Utilidades.dll

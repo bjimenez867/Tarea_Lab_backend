@@ -15,7 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SistemaParqueos.LogicaNegocio\SistemaParqueos.LogicaNegocio.csproj" />
     <ProjectReference Include="..\SistemaParqueos.Dominio\SistemaParqueos.Dominio.csproj" />
-    <ProjectReference Include="..\SistemaParqueos.Utilitarios\SistemaParqueos.Utilitarios.csproj" />
+    <ProjectReference Include="..\SistemaParqueos.Utilidades\SistemaParqueos.Utilidades.csproj" />
   </ItemGroup>
 
 </Project>
