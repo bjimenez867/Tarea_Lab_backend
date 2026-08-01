@@ -16,7 +16,6 @@ public class IngresoVehiculoDTO
 
     public DateTime? FechaSalida { get; set; }
 
-    [Required(ErrorMessage = "El estado es obligatorio")]
     [MaxLength(20)]
     public string Estado { get; set; } = null!;
 }

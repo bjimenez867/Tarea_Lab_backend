@@ -36,3 +36,4 @@
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/obj/Debug/net10.0/refint/SistemaParqueos.LogicaNegocio.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/obj/Debug/net10.0/SistemaParqueos.LogicaNegocio.pdb
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/obj/Debug/net10.0/ref/SistemaParqueos.LogicaNegocio.dll
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/obj/Debug/net10.0/SistemaParqueos.LogicaNegocio.sourcelink.json

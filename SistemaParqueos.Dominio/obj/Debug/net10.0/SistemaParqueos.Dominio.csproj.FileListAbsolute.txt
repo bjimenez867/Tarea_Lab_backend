@@ -20,3 +20,4 @@
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/refint/SistemaParqueos.Dominio.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.pdb
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/ref/SistemaParqueos.Dominio.dll
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.sourcelink.json

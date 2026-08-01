@@ -20,3 +20,4 @@
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/refint/SistemaParqueos.Utilitarios.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.pdb
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/ref/SistemaParqueos.Utilitarios.dll
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.sourcelink.json
