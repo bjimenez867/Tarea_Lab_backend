@@ -1,14 +1,3 @@
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/bin/Debug/net10.0/SistemaParqueos.Utilitarios.deps.json
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/bin/Debug/net10.0/SistemaParqueos.Utilitarios.dll
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/bin/Debug/net10.0/SistemaParqueos.Utilitarios.pdb
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.AssemblyInfoInputs.cache
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.AssemblyInfo.cs
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.csproj.CoreCompileInputs.cache
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.dll
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/refint/SistemaParqueos.Utilitarios.dll
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.pdb
-/Users/byronjimenez/Documents/progra V/SistemaParqueos /SistemaParqueos.Utilitarios/obj/Debug/net10.0/ref/SistemaParqueos.Utilitarios.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/bin/Debug/net10.0/SistemaParqueos.Utilitarios.deps.json
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/bin/Debug/net10.0/SistemaParqueos.Utilitarios.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/bin/Debug/net10.0/SistemaParqueos.Utilitarios.pdb
@@ -16,8 +5,8 @@
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.AssemblyInfoInputs.cache
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.AssemblyInfo.cs
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.csproj.CoreCompileInputs.cache
+/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.sourcelink.json
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/refint/SistemaParqueos.Utilitarios.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.pdb
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/ref/SistemaParqueos.Utilitarios.dll
-/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilitarios/obj/Debug/net10.0/SistemaParqueos.Utilitarios.sourcelink.json

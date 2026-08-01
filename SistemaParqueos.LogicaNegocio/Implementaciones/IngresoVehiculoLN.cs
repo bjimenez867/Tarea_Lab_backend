@@ -66,7 +66,7 @@ public class IngresoVehiculoLN : IIngresoVehiculoLN
         var ingreso = await _unitOfWork.IngresosVehiculo.ObtenerPorIdAsync(dto.IngresoId)
             ?? throw new ValidacionNegocioException("El ingreso no existe.");
 
-        ingreso.Estado = dto.Estado;
+        ingreso.Estado = dto.Estado ?? ingreso.Estado;
         ingreso.FechaSalida = dto.FechaSalida;
         ingreso.ActualizadoEn = DateTime.UtcNow;
 

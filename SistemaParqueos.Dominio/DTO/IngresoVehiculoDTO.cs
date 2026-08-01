@@ -17,5 +17,5 @@ public class IngresoVehiculoDTO
     public DateTime? FechaSalida { get; set; }
 
     [MaxLength(20)]
-    public string Estado { get; set; } = null!;
+    public string? Estado { get; set; }
 }
