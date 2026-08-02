@@ -10,3 +10,15 @@
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/refint/SistemaParqueos.Dominio.dll
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.pdb
 /Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/Debug/net10.0/ref/SistemaParqueos.Dominio.dll
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/bin/Debug/net10.0/SistemaParqueos.Dominio.deps.json
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/bin/Debug/net10.0/SistemaParqueos.Dominio.dll
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/bin/Debug/net10.0/SistemaParqueos.Dominio.pdb
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.AssemblyInfoInputs.cache
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.AssemblyInfo.cs
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.csproj.CoreCompileInputs.cache
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.sourcelink.json
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.dll
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/refint/SistemaParqueos.Dominio.dll
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/SistemaParqueos.Dominio.pdb
+/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/Debug/net10.0/ref/SistemaParqueos.Dominio.dll

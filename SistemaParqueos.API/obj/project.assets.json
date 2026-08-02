@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Azure.Core/1.47.1": {
@@ -1668,11 +1668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.API/SistemaParqueos.API.csproj",
+      "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.API/SistemaParqueos.API.csproj",
       "projectName": "SistemaParqueos.API",
-      "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.API/SistemaParqueos.API.csproj",
+      "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.API/SistemaParqueos.API.csproj",
       "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-      "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.API/obj/",
+      "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -1686,17 +1686,16 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
-              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
+            "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
+              "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
             },
-            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {
-              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj"
+            "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {
+              "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj"
             },
-            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
-              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
+            "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+              "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
             }
           }
         }
@@ -1715,7 +1714,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {

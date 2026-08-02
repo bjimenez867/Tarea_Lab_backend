@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Azure.Core/1.47.1": {
@@ -3689,11 +3689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
+      "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
       "projectName": "SistemaParqueos.AccesoDatos",
-      "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
+      "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
       "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-      "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/obj/",
+      "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -3707,11 +3707,10 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
-              "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
+            "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
+              "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
             }
           }
         }
@@ -3730,7 +3729,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {

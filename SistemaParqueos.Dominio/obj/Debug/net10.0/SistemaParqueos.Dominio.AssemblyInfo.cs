@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaParqueos.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b8566b27d64de846a306199dfe34d6bd72b4e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2158f0eaa443aa9f8c8b349ac06f05535aef38")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaParqueos.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaParqueos.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

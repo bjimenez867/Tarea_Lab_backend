@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {}
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {}
   },
   "projects": {
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+        "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
         "projectName": "SistemaParqueos.Utilidades",
-        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+        "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
         "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/",
+        "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -25,7 +25,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -44,7 +43,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",

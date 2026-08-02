@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {}
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {}
   },
   "projects": {
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj": {
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
+        "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
         "projectName": "SistemaParqueos.AccesoDatos",
-        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
+        "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj",
         "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/obj/",
+        "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -25,11 +25,10 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
-                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
+              "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
+                "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
               }
             }
           }
@@ -48,7 +47,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
@@ -362,14 +360,14 @@
         }
       }
     },
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj",
+        "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj",
         "projectName": "SistemaParqueos.Dominio",
-        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj",
+        "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj",
         "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/obj/",
+        "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -383,7 +381,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -402,7 +399,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -698,14 +694,14 @@
         }
       }
     },
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj",
+        "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj",
         "projectName": "SistemaParqueos.LogicaNegocio",
-        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj",
+        "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/SistemaParqueos.LogicaNegocio.csproj",
         "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.LogicaNegocio/obj/",
+        "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.LogicaNegocio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -719,17 +715,16 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj": {
-                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj"
+              "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj": {
+                "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.AccesoDatos/SistemaParqueos.AccesoDatos.csproj"
               },
-              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
-                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
+              "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj": {
+                "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Dominio/SistemaParqueos.Dominio.csproj"
               },
-              "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
-                "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
+              "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+                "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj"
               }
             }
           }
@@ -748,7 +743,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -1044,14 +1038,14 @@
         }
       }
     },
-    "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
+    "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+        "projectUniqueName": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
         "projectName": "SistemaParqueos.Utilidades",
-        "projectPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
+        "projectPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/SistemaParqueos.Utilidades.csproj",
         "packagesPath": "/Users/byronjimenez/.nuget/packages/",
-        "outputPath": "/Users/byronjimenez/Documents/progra V/SistemaParqueos Backend/SistemaParqueos.Utilidades/obj/",
+        "outputPath": "/Users/byronjimenez/RiderProjects/Tarea_Lab_backend/SistemaParqueos.Utilidades/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/byronjimenez/.nuget/NuGet/NuGet.Config"
@@ -1065,7 +1059,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -1084,7 +1077,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
